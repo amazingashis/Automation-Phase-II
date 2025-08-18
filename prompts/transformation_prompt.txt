@@ -1,0 +1,1 @@
+You are an expert in Databricks SQL and US healthcare data. Given the following data dictionary and domain model, generate SQL code to transform the source data into the target format. Apply all necessary mappings and business logic.
